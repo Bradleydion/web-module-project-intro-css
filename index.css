@@ -157,8 +157,7 @@ p {
 .titleContent {
   display: inline-block;
   margin: auto;
-  width: 50%;
-  /* padding:10px; */
+  width: 70%;
   text-align: center;
 }
 
@@ -170,8 +169,8 @@ p {
 }
 .mountain {
     margin: 0 10px;
-    height: 300px;
-    width: 300px;
+    height: 250px;
+    width: 250px;
     border-radius: 50%;
   }
 .main1a {
@@ -185,6 +184,7 @@ p {
     width: 50%;
     align-content: center;
     text-align: center;
+    margin-top:3% ;
 }
 .fire {
   height: 150px;
@@ -196,6 +196,7 @@ p {
     width: 50%;
     align-content: center;
     text-align: center;
+    margin-top: 5%;
 }
 .camper {
   height: 150px;
@@ -223,9 +224,7 @@ p {
 .third {
   background-color: #ffcd69;
 }
-#pain {
-  margin-bottom: 5rem;
-}
+
 .bottom img {
   height: 500px;
   width: 100%;
@@ -233,6 +232,7 @@ p {
 footer {
   background-color: #f9e7dc;
   height: 700px;
+  margin-top: 5%;
   margin-bottom: 0;
 }
 footer nav {
