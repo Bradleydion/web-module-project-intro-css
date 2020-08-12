@@ -240,3 +240,6 @@ footer nav {
   display: inline-block;
   margin: 10px 10%;
 }
+span{
+  font-weight: bold;
+}
