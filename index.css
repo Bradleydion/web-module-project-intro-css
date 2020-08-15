@@ -1,0 +1,245 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+  display: block;
+}
+body {
+  line-height: 1;
+}
+ol,
+ul {
+  list-style: none;
+}
+blockquote,
+q {
+  quotes: none;
+}
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+  content: "";
+  content: none;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/* starting of css adjustments */
+
+html,
+body {
+  font-size: 62.5%;
+  font-family: "Roboto Mono", monospace;
+  margin: 0 auto;
+  width: 95%;
+}
+
+header nav {
+  width: 100%;
+  display: inline-block;
+  margin: 0 10%;
+}
+
+p {
+  font-size: 2rem;
+}
+.main {
+  display: inline-block;
+}
+.main h1 {
+  font-family: "Chelsea Market", cursive;
+  font-size: 6rem;
+}
+.titleContent {
+  display: inline-block;
+  margin: auto;
+  width: 70%;
+  text-align: center;
+}
+
+.main1 {
+  display: inline-block;
+  margin: auto;
+  widows: 50%;
+  padding: 10px;
+}
+.mountain {
+    margin: 0 10px;
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+  }
+.main1a {
+  background-color: #ddb9a3;
+  text-align: justify;
+  color:white;
+}
+.main2{
+    display:block;
+    margin: auto;
+    width: 50%;
+    align-content: center;
+    text-align: center;
+    margin-top:3% ;
+}
+.fire {
+  height: 150px;
+  width: 150px;
+}
+.main3{
+    display:block;
+    margin: auto;
+    width: 50%;
+    align-content: center;
+    text-align: center;
+    margin-top: 5%;
+}
+.camper {
+  height: 150px;
+  width: 150px;
+}
+.navA {
+  display: inline-block;
+  margin: 10px 50px 10px;
+  border: none;
+  color: white;
+  width: 125px;
+  height: 25px;
+  border-radius: 25px;
+  padding: 25px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 1.6rem;
+}
+.first {
+  background-color: #ff764e;
+}
+.second {
+  background-color: #5ed3eb;
+}
+.third {
+  background-color: #ffcd69;
+}
+
+.bottom img {
+  height: 500px;
+  width: 100%;
+}
+footer {
+  background-color: #f9e7dc;
+  height: 700px;
+  margin-top: 5%;
+  margin-bottom: 0;
+}
+footer nav {
+  width: 100%;
+  display: inline-block;
+  margin: 10px 10%;
+}
+span{
+  font-weight: bold;
+}
